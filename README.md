@@ -57,7 +57,7 @@ The major function of a semi-automatic PCB stencil printer is to ensure precise,
 
 ## Bare Board:
 
-![WhatsApp Image 2025-11-19 at 08 34 06_c3c6a32d](https://github.com/user-attachments/assets/6e73c3ad-7e98-409b-b7c1-08bae9673603)
+![jj](https://github.com/user-attachments/assets/2e5a762a-a4c1-4d9f-b1c4-e894908c86a4)
 
 ## Bare board with soldering Paste:
 
